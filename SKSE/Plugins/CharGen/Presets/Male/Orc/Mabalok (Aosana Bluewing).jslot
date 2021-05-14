@@ -1,0 +1,1160 @@
+{
+   "actor" : {
+      "hairColor" : 1053202,
+      "headTexture" : "Skyrim.esm|07A5FF",
+      "weight" : 85
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Male\\MaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\OrcMale\\MaleHeadOrc_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Male\\MaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Male\\MaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 501248,
+         "formIdentifier" : "Skyrim.esm|07A600",
+         "type" : 1
+      },
+      {
+         "formId" : 333354,
+         "formIdentifier" : "Skyrim.esm|05162A",
+         "type" : 2
+      },
+      {
+         "formId" : 1011574,
+         "formIdentifier" : "Skyrim.esm|0F6F76",
+         "type" : 3
+      },
+      {
+         "formId" : 853348,
+         "formIdentifier" : "Skyrim.esm|0D0564",
+         "type" : 5
+      },
+      {
+         "formId" : 937386,
+         "formIdentifier" : "Skyrim.esm|0E4DAA",
+         "type" : 7
+      },
+      {
+         "formId" : 386970,
+         "formIdentifier" : "Skyrim.esm|05E79A",
+         "type" : 8
+      },
+      {
+         "formId" : 815394,
+         "formIdentifier" : "Skyrim.esm|0C7122",
+         "type" : 9
+      }
+   ],
+   "modNames" : [ "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "ECE_EarSize",
+            "value" : -0.2599999904632568
+         },
+         {
+            "name" : "CME_EyesHeight",
+            "value" : 0.2599999904632568
+         },
+         {
+            "name" : "CME_EyeballInOut",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_EyesInOut",
+            "value" : -0.1099999994039536
+         },
+         {
+            "name" : "EXPR_DialogueAnger",
+            "value" : 0.5099999904632568
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowSlope",
+            "value" : 0.2599999904632568
+         },
+         {
+            "name" : "SPG_TeethUpDown",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : 0.5099999904632568
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            1,
+            1,
+            -1,
+            1,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            -1,
+            -1,
+            -0.5,
+            0,
+            0,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 1, 4294967295, 8, 27 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : -16777216,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Barian\\Barian 6.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 4279443475,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNord_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 1881221970,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 1881221970,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_01.dds"
+      },
+      {
+         "color" : 4279763972,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_06.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_07.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_09.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadOrcWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadOrcWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadOrcWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadOrcWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadOrcWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 1.009999990463257,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 1.009999990463257,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

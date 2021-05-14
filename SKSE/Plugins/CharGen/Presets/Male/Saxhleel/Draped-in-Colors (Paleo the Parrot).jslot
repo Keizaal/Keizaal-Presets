@@ -1,0 +1,294 @@
+{
+   "actor" : {
+      "hairColor" : 1710652,
+      "headTexture" : "Skyrim.esm|069CDD",
+      "weight" : 50
+   },
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\ArgonianMale\\ArgonianMaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\ArgonianMale\\ArgonianMaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Male\\MaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\ArgonianMale\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\ArgonianMale\\ArgonianMaleHead_s.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333332,
+         "formIdentifier" : "Skyrim.esm|051614",
+         "type" : 0
+      },
+      {
+         "formId" : 333068,
+         "formIdentifier" : "Skyrim.esm|05150C",
+         "type" : 1
+      },
+      {
+         "formId" : 733141,
+         "formIdentifier" : "Skyrim.esm|0B2FD5",
+         "type" : 2
+      },
+      {
+         "formId" : 644956,
+         "formIdentifier" : "Skyrim.esm|09D75C",
+         "type" : 3
+      },
+      {
+         "formId" : 885496,
+         "formIdentifier" : "Skyrim.esm|0D82F8",
+         "type" : 4
+      },
+      {
+         "formId" : 865107,
+         "formIdentifier" : "Skyrim.esm|0D3353",
+         "type" : 5
+      }
+   ],
+   "modNames" : [ "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      }
+   ],
+   "morphs" : {
+      "custom" : null,
+      "default" : {
+         "morphs" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 0, 4294967295, 2, 0 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -65536,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\BRB\\Hand\\Hand Bonus 1.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl1]",
+         "values" : [
+            {
+               "data" : -65536,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\BRB\\Hand\\Hand Bonus 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl2]",
+         "values" : [
+            {
+               "data" : 16777215,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 3222213413,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianForehead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianEyeSocketUpper.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianEyeSocketLower.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianEyeLiner.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianNostrils01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianLaughline.dds"
+      },
+      {
+         "color" : 4283074885,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianCheeks.dds"
+      },
+      {
+         "color" : 4283074885,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianCheeksLower.dds"
+      },
+      {
+         "color" : 3512886015,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianLips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianChin.dds"
+      },
+      {
+         "color" : 4282515733,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianNeck.dds"
+      },
+      {
+         "color" : 4093575168,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\BRB\\Face\\Arg Face 1 M.dds"
+      },
+      {
+         "color" : 2197821695,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\BRB\\Face\\Arg Face 22 M.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianStripes03.dds"
+      },
+      {
+         "color" : 3271494154,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\BRB\\Face\\Arg Face 9 M.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianStripes05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianStripes06.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\ArgonianDirt.dds"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

@@ -1,0 +1,511 @@
+{
+   "actor" : {
+      "hairColor" : 1053202,
+      "weight" : 53.79999923706055
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\KhajiitFemale\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\KhajiitFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\KhajiitFemale\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\KhajiitFemale\\FemaleHead_s.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333330,
+         "formIdentifier" : "Skyrim.esm|051612",
+         "type" : 0
+      },
+      {
+         "formId" : 332200,
+         "formIdentifier" : "Skyrim.esm|0511A8",
+         "type" : 1
+      },
+      {
+         "formId" : 997651,
+         "formIdentifier" : "Skyrim.esm|0F3913",
+         "type" : 2
+      },
+      {
+         "formId" : 534980,
+         "formIdentifier" : "Skyrim.esm|0829C4",
+         "type" : 3
+      },
+      {
+         "formId" : 977017,
+         "formIdentifier" : "Skyrim.esm|0EE879",
+         "type" : 6
+      },
+      {
+         "formId" : 4261620749,
+         "formIdentifier" : "BeastHHBB.esp|032C0D",
+         "type" : 7
+      }
+   ],
+   "modNames" : [ "BeastHHBB.esp", "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      }
+   ],
+   "morphs" : {
+      "custom" : null,
+      "default" : {
+         "morphs" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -0.4000000059604645,
+            0,
+            0.2000000029802322,
+            0,
+            0,
+            0,
+            -0.2000000029802322,
+            -0.4000000059604645,
+            -0.2000000029802322,
+            0.6000000238418579,
+            0,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 6, 4294967295, 3, 1 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : -16777216,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "textures\\actors\\character\\overlays\\default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 2144495872,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitEyeSocketUpper.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitEyeliner.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitEyeSocketLower.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitCheekColor.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitCheekColorLower.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitForehead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitChin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitLipColor.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitLaughlines.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitNeck.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitStripes01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitStripes02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitStripes03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitStripes04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitPaint01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitPaint02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitPaint03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitPaint04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\KhajiitNose01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "NPC Head [Head]",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Head MagicNode [Hmag]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "XPMSE.esp",
+               "values" : [
+                  {
+                     "data" : 0.8517000079154968,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "ShieldBack"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "NPC Head [Head]",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Head MagicNode [Hmag]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

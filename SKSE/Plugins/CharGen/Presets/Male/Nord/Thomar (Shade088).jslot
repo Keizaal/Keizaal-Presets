@@ -1,0 +1,341 @@
+{
+   "actor" : {
+      "hairColor" : 4338989,
+      "headTexture" : "Skyrim.esm|0D071D",
+      "weight" : 55
+   },
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Male\\MaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\Male\\MaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Male\\MaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\MaleHeadDetail_Age40.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Male\\MaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333359,
+         "formIdentifier" : "Skyrim.esm|05162F",
+         "type" : 0
+      },
+      {
+         "formId" : 333361,
+         "formIdentifier" : "Skyrim.esm|051631",
+         "type" : 1
+      },
+      {
+         "formId" : 937516,
+         "formIdentifier" : "Skyrim.esm|0E4E2C",
+         "type" : 2
+      },
+      {
+         "formId" : 332887,
+         "formIdentifier" : "Skyrim.esm|051457",
+         "type" : 4
+      },
+      {
+         "formId" : 863906,
+         "formIdentifier" : "Skyrim.esm|0D2EA2",
+         "type" : 6
+      },
+      {
+         "formId" : 148060,
+         "formIdentifier" : "Skyrim.esm|02425C",
+         "type" : 8
+      },
+      {
+         "formId" : 1157641117,
+         "formIdentifier" : "Brows.esp|00339D",
+         "type" : 9
+      }
+   ],
+   "modNames" : [ "Brows.esp", "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 69,
+         "name" : "Brows.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "CME_EyesSize",
+            "value" : -0.2599999904632568
+         },
+         {
+            "name" : "NSK_NoseBridge",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "RANs_NoseRidgeShape",
+            "value" : 0.2599999904632568
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 0.5999999642372131
+         },
+         {
+            "name" : "ECE_NoseBridgeWidth",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "ECE_NoseTipWidth",
+            "value" : -0.07000000029802322
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : 0.2099999934434891
+         },
+         {
+            "name" : "CME_NoseSellionWidth",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowInOut",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "CME_JawWidth",
+            "value" : 0.2599999904632568
+         },
+         {
+            "name" : "CME_BrowSlope",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowBackForward",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "CME_BrowUpDown",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "NSK_NoseTilt",
+            "value" : -0.2599999904632568
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            0.05999999865889549,
+            0.1000000014901161,
+            0.07999999821186066,
+            -1,
+            0.03999999910593033,
+            0.6000000238418579,
+            0.5,
+            0,
+            -0.05999999865889549,
+            -1,
+            0.2000000029802322,
+            -0.239999994635582,
+            0.2000000029802322,
+            0.1599999964237213,
+            0.300000011920929,
+            -0.2000000029802322,
+            -0.2000000029802322,
+            -0.6399999856948853,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 0, 4294967295, 17, 5 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "tintInfo" : [
+      {
+         "color" : 4289169018,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 1799554049,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 1621709906,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 816403538,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNord_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Frekles_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_06.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_07.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_09.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNordWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNordWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNordWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNordWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNordWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBlackBloodTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBlackBloodTattoo_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 31,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 32,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 33,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554704
+   }
+}
