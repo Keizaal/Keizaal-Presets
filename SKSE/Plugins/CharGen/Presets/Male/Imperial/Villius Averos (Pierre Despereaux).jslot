@@ -1,27 +1,27 @@
 {
    "actor" : {
-      "hairColor" : 1183762,
+      "hairColor" : 1841177,
       "headTexture" : "Skyrim.esm|051646",
-      "weight" : 39.99999618530273
+      "weight" : 25
    },
    "bodyMorphs" : [
       {
          "keys" : [
             {
-               "key" : "XPMSE.esp",
-               "value" : 0
+               "key" : "XPMSE",
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASaveCRC_bowatk"
+         "name" : "RMWCloak"
       },
       {
          "keys" : [
             {
-               "key" : "XPMSE.esp",
-               "value" : 0
+               "key" : "XPMSE",
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASave_axeeqp"
+         "name" : "RMWMixedAll"
       },
       {
          "keys" : [
@@ -30,16 +30,16 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAABase_axeeqp"
+         "name" : "XPMSEAABase_magmt"
       },
       {
          "keys" : [
             {
-               "key" : "XPMSE.esp",
-               "value" : 0
+               "key" : "XPMSE",
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASaveCRC_dageqp"
+         "name" : "RMWBoardAll"
       },
       {
          "keys" : [
@@ -48,34 +48,7 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_1hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_axeeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 6
-            }
-         ],
-         "name" : "XPMSEAARange_dageqp"
+         "name" : "XPMSEAARange_magcastmt"
       },
       {
          "keys" : [
@@ -84,7 +57,16 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_bowidle"
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE",
+               "value" : 1
+            }
+         ],
+         "name" : "RMWAnimationsAll"
       },
       {
          "keys" : [
@@ -93,304 +75,16 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_bowatk"
+         "name" : "XPMSEAABase_2hmeqp"
       },
       {
          "keys" : [
             {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_bowatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_dageqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
+               "key" : "XPMSE",
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_magmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_1hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_maceqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_maceqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_2hweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_magcastmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_2hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_magcon"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_2hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_magatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_2hweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 5
-            }
-         ],
-         "name" : "XPMSEAARange_1hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_dageqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_bowatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_magidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_magcon"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magcastmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magcon"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_magidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_magmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_sprint"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_sprint"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_shout"
+         "name" : "RMWDualwieldAll"
       },
       {
          "keys" : [
@@ -435,7 +129,7 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAABase_2hmeqp"
+         "name" : "XPMSEAABase_2hweqp"
       },
       {
          "keys" : [
@@ -444,7 +138,52 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAABase_2hweqp"
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
       },
       {
          "keys" : [
@@ -480,7 +219,25 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_magcon"
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
       },
       {
          "keys" : [
@@ -498,7 +255,7 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAABase_magmt"
+         "name" : "XPMSEAARange_magcon"
       },
       {
          "keys" : [
@@ -522,19 +279,28 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 0
             }
          ],
-         "name" : "XPMSEAARange_magcastmt"
+         "name" : "XPMSEAASave_boweqp"
       },
       {
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 5
             }
          ],
-         "name" : "XPMSEAARange_2hmeqp"
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
       },
       {
          "keys" : [
@@ -553,6 +319,60 @@
             }
          ],
          "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
       },
       {
          "keys" : [
@@ -579,6 +399,24 @@
                "value" : 1
             }
          ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
          "name" : "XPMSEAARange_sprint"
       },
       {
@@ -593,29 +431,209 @@
       {
          "keys" : [
             {
-               "key" : "XPMSE",
-               "value" : 3
+               "key" : "XPMSE.esp",
+               "value" : 0
             }
          ],
-         "name" : "RMWQuiver"
+         "name" : "XPMSEAASave_dageqp"
       },
       {
          "keys" : [
             {
-               "key" : "XPMSE",
-               "value" : 2
+               "key" : "XPMSE.esp",
+               "value" : 0
             }
          ],
-         "name" : "RMWQuiverAll"
+         "name" : "XPMSEAASave_bowatk"
       },
       {
          "keys" : [
             {
-               "key" : "XPMSE",
-               "value" : 1
+               "key" : "XPMSE.esp",
+               "value" : 0
             }
          ],
-         "name" : "RMWBow"
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
       }
    ],
    "faceTextures" : [
@@ -642,38 +660,38 @@
    ],
    "headParts" : [
       {
-         "formId" : 333361,
-         "formIdentifier" : "Skyrim.esm|051631",
+         "formId" : 333360,
+         "formIdentifier" : "Skyrim.esm|051630",
          "type" : 0
       },
       {
-         "formId" : 333360,
-         "formIdentifier" : "Skyrim.esm|051630",
+         "formId" : 333361,
+         "formIdentifier" : "Skyrim.esm|051631",
          "type" : 1
       },
       {
-         "formId" : 546143,
-         "formIdentifier" : "Skyrim.esm|08555F",
-         "type" : 2
-      },
-      {
-         "formId" : 788547849,
+         "formId" : 1426082057,
          "formIdentifier" : "HallgarthAdditionalHair.esp|004909",
-         "type" : 3
+         "type" : 2
       },
       {
          "formId" : 331956,
          "formIdentifier" : "Skyrim.esm|0510B4",
+         "type" : 4
+      },
+      {
+         "formId" : 2248193481,
+         "formIdentifier" : "TheEyesOfBeauty.esp|00B5C9",
          "type" : 5
       },
       {
-         "formId" : 815370,
-         "formIdentifier" : "Skyrim.esm|0C710A",
+         "formId" : 331903,
+         "formIdentifier" : "Skyrim.esm|05107F",
          "type" : 6
       },
       {
-         "formId" : 738241237,
-         "formIdentifier" : "TheEyesOfBeauty.esp|00AAD5",
+         "formId" : 546143,
+         "formIdentifier" : "Skyrim.esm|08555F",
          "type" : 7
       }
    ],
@@ -684,85 +702,45 @@
          "name" : "Skyrim.esm"
       },
       {
-         "index" : 44,
-         "name" : "TheEyesOfBeauty.esp"
+         "index" : 85,
+         "name" : "HallgarthAdditionalHair.esp"
       },
       {
-         "index" : 47,
-         "name" : "HallgarthAdditionalHair.esp"
+         "index" : 134,
+         "name" : "TheEyesOfBeauty.esp"
       }
    ],
    "morphs" : {
       "custom" : [
          {
-            "name" : "CME_ChinBackForward",
-            "value" : 0.009999999776482582
-         },
-         {
-            "name" : "CME_BrowSlope",
-            "value" : 0.009999999776482582
-         },
-         {
-            "name" : "CME_EyeballSize",
-            "value" : -0.009999999776482582
-         },
-         {
-            "name" : "CME_EyesSize",
-            "value" : 0.2099999934434891
-         },
-         {
-            "name" : "CME_EyesHeight",
-            "value" : 0.2099999934434891
-         },
-         {
-            "name" : "CME_BrowInOut",
-            "value" : -0.009999999776482582
-         },
-         {
-            "name" : "CME_BrowUpDown",
-            "value" : 0.009999999776482582
-         },
-         {
             "name" : "CME_BrowArch",
             "value" : 0.009999999776482582
          },
          {
-            "name" : "CME_MouthWidth",
+            "name" : "RANs_ForeheadBackForward",
             "value" : -0.009999999776482582
-         },
-         {
-            "name" : "CME_MouthUpDown",
-            "value" : -0.1099999994039536
-         },
-         {
-            "name" : "CME_BrowBackForward",
-            "value" : -0.009999999776482582
-         },
-         {
-            "name" : "EXPR_DialogueHappy",
-            "value" : 0.6100000143051147
          }
       ],
       "default" : {
          "morphs" : [
             0,
-            -0.2000000029802322,
-            -1,
-            -0.300000011920929,
             0,
-            -0.3999999761581421,
-            -0.3999999761581421,
-            -0.4000000059604645,
-            -0.4000000059604645,
-            -0.300000011920929,
             -1,
-            0.300000011920929,
             -0.2000000029802322,
-            0,
             0,
             -0.6000000238418579,
-            -0.2000000029802322,
+            -0.5,
+            -0.4000000059604645,
+            -0.5,
+            0.4000000059604645,
+            -1,
+            0.4000000059604645,
+            -0.2200000286102295,
             0,
+            0,
+            -0.300000011920929,
+            0.2000000029802322,
+            -0.2400000095367432,
             3.402823466385289e+38
          ],
          "presets" : [ 2, 4294967295, 10, 19 ]
@@ -802,7 +780,7 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_FrownLines.dds"
       },
       {
-         "color" : 816403538,
+         "color" : 16777215,
          "index" : 6,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNord_Lips.dds"
       },
@@ -827,77 +805,77 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 11,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_01.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 12,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_02.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 13,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_03.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 14,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_04.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 15,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_05.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 16,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_06.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 17,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_07.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 18,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_08.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 19,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_09.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 20,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_10.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 21,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_01.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 22,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_02.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 23,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_03.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 24,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_04.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 25,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_05.dds"
       },
@@ -907,17 +885,17 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 27,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 28,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
       },
       {
-         "color" : 16777215,
+         "color" : 0,
          "index" : 29,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
       }
@@ -927,2414 +905,6 @@
          "firstPerson" : false,
          "keys" : [
             {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERChesko"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERDefault"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERLeftHipBolt"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9975640773773193,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06975647062063217,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06975647062063217,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9975640773773193,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME ShieldBackDefault"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowBetter"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowChesko"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowDefault"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowFSM"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordDefault"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordFSM"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordLeftHip"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordNMD"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordOnBack"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordSWP"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV QUIVERLeftHipBolt",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT QUIVER"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV ShieldBackDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT ShieldBack"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponBow"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponSword"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordLeftDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponSwordLeft"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "NPC Head [Head]",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "NPC Head MagicNode [Hmag]"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "CME L Hand [LHnd]",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "NPC L MagicNode [LMag]"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "CME R Hand [RHnd]",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "NPC R MagicNode [RMag]"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV QUIVERLeftHipBolt",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "QUIVER"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV ShieldBackDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "ShieldBack"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponAxeDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponAxeArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBackAxeMaceDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBackArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBow"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBowArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponDaggerDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponDaggerArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponMaceDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponMaceArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSword"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSwordArmor"
-      },
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordLeftDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSwordLeft"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERChesko"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERDefault"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 4.599999904632568,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME QUIVERLeftHipBolt"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 0,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9975640773773193,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06975647062063217,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06975647062063217,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9975640773773193,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME ShieldBackDefault"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowBetter"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowChesko"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowDefault"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : -0.800000011920929,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 3.5,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.1736481785774231,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.1736481785774231,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9848077297210693,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponBowFSM"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordDefault"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordFSM"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordLeftHip"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordNMD"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordOnBack"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWPlugin",
-               "values" : [
-                  {
-                     "data" : 1.700000047683716,
-                     "index" : 0,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -3.700000047683716,
-                     "index" : 2,
-                     "key" : 31,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 0,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 1,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : -0.06104854121804237,
-                     "index" : 2,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 3,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 1,
-                     "index" : 4,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 5,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.06104854121804237,
-                     "index" : 6,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0,
-                     "index" : 7,
-                     "key" : 32,
-                     "type" : 4
-                  },
-                  {
-                     "data" : 0.9981347918510437,
-                     "index" : 8,
-                     "key" : 32,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "CME WeaponSwordSWP"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV QUIVERLeftHipBolt",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT QUIVER"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV ShieldBackDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT ShieldBack"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponBow"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponSword"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordLeftDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "HDT WeaponSwordLeft"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
                "name" : "NodeDestination",
                "values" : [
                   {
@@ -3355,7 +925,7 @@
                "name" : "NodeDestination",
                "values" : [
                   {
-                     "data" : "CME L Hand [LHnd]",
+                     "data" : "NPC Head [Head]",
                      "index" : -1,
                      "key" : 40,
                      "type" : 2
@@ -3363,211 +933,7 @@
                ]
             }
          ],
-         "node" : "NPC L MagicNode [LMag]"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "CME R Hand [RHnd]",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "NPC R MagicNode [RMag]"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV QUIVERLeftHipBolt",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "QUIVER"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV ShieldBackDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "ShieldBack"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponAxeDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponAxeArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBackAxeMaceDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBackArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBow"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponBowDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponBowArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponDaggerDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponDaggerArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponMaceDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponMaceArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSword"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSwordArmor"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "NodeDestination",
-               "values" : [
-                  {
-                     "data" : "MOV WeaponSwordLeftDefault",
-                     "index" : -1,
-                     "key" : 40,
-                     "type" : 2
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponSwordLeft"
+         "node" : "NPC Head MagicNode [Hmag]"
       }
    ],
    "version" : {
