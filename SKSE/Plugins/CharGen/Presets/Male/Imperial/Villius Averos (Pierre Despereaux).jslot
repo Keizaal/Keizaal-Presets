@@ -12,7 +12,7 @@
                "value" : 1
             }
          ],
-         "name" : "RMWCloak"
+         "name" : "RMWMixedAll"
       },
       {
          "keys" : [
@@ -21,7 +21,7 @@
                "value" : 1
             }
          ],
-         "name" : "RMWMixedAll"
+         "name" : "RMWCloak"
       },
       {
          "keys" : [
@@ -40,6 +40,15 @@
             }
          ],
          "name" : "RMWBoardAll"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
       },
       {
          "keys" : [
@@ -72,24 +81,6 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_2hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 1
-            }
-         ],
-         "name" : "RMWDualwieldAll"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
                "value" : 0
             }
          ],
@@ -103,6 +94,15 @@
             }
          ],
          "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE",
+               "value" : 1
+            }
+         ],
+         "name" : "RMWDualwieldAll"
       },
       {
          "keys" : [
@@ -135,6 +135,15 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
                "value" : 1
             }
          ],
@@ -147,7 +156,16 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASaveCRC_dageqp"
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
       },
       {
          "keys" : [
@@ -166,24 +184,6 @@
             }
          ],
          "name" : "XPMSEAABase_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_dageqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_boweqp"
       },
       {
          "keys" : [
@@ -216,10 +216,10 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 0
             }
          ],
-         "name" : "XPMSEAABase_magcon"
+         "name" : "XPMSEAASaveCRC_magcastmt"
       },
       {
          "keys" : [
@@ -234,19 +234,10 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_magcastmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
                "value" : 1
             }
          ],
-         "name" : "XPMSEAABase_magidle"
+         "name" : "XPMSEAABase_magcon"
       },
       {
          "keys" : [
@@ -256,6 +247,15 @@
             }
          ],
          "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
       },
       {
          "keys" : [
@@ -279,15 +279,6 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
                "value" : 5
             }
          ],
@@ -306,6 +297,15 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
                "value" : 1
             }
          ],
@@ -319,24 +319,6 @@
             }
          ],
          "name" : "XPMSEAARange_axeeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_bowatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_bowidle"
       },
       {
          "keys" : [
@@ -363,7 +345,16 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_boweqp"
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
       },
       {
          "keys" : [
@@ -373,6 +364,15 @@
             }
          ],
          "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
       },
       {
          "keys" : [
@@ -396,19 +396,19 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 0
             }
          ],
-         "name" : "XPMSEAARange_magmt"
+         "name" : "XPMSEAASaveCRC_1hmeqp"
       },
       {
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASaveCRC_1hmeqp"
+         "name" : "XPMSEAARange_magmt"
       },
       {
          "keys" : [
@@ -435,7 +435,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_dageqp"
+         "name" : "XPMSEAASave_bowidle"
       },
       {
          "keys" : [
@@ -453,16 +453,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_axeeqp"
+         "name" : "XPMSEAASave_dageqp"
       },
       {
          "keys" : [
@@ -480,7 +471,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_maceqp"
+         "name" : "XPMSEAASave_axeeqp"
       },
       {
          "keys" : [
@@ -489,7 +480,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_2hweqp"
+         "name" : "XPMSEAASave_maceqp"
       },
       {
          "keys" : [
@@ -516,7 +507,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_2hmeqp"
+         "name" : "XPMSEAASave_2hweqp"
       },
       {
          "keys" : [
@@ -534,7 +525,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASaveCRC_2hmeqp"
+         "name" : "XPMSEAASave_2hmeqp"
       },
       {
          "keys" : [
@@ -552,7 +543,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASaveCRC_2hweqp"
+         "name" : "XPMSEAASaveCRC_2hmeqp"
       },
       {
          "keys" : [
@@ -562,6 +553,15 @@
             }
          ],
          "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
       },
       {
          "keys" : [
@@ -670,28 +670,28 @@
          "type" : 1
       },
       {
-         "formId" : 1426082057,
-         "formIdentifier" : "HallgarthAdditionalHair.esp|004909",
+         "formId" : 546143,
+         "formIdentifier" : "Skyrim.esm|08555F",
          "type" : 2
+      },
+      {
+         "formId" : 1124092169,
+         "formIdentifier" : "HallgarthAdditionalHair.esp|004909",
+         "type" : 3
       },
       {
          "formId" : 331956,
          "formIdentifier" : "Skyrim.esm|0510B4",
-         "type" : 4
+         "type" : 5
       },
       {
-         "formId" : 2248193481,
+         "formId" : 2113975753,
          "formIdentifier" : "TheEyesOfBeauty.esp|00B5C9",
-         "type" : 5
+         "type" : 6
       },
       {
          "formId" : 331903,
          "formIdentifier" : "Skyrim.esm|05107F",
-         "type" : 6
-      },
-      {
-         "formId" : 546143,
-         "formIdentifier" : "Skyrim.esm|08555F",
          "type" : 7
       }
    ],
@@ -702,11 +702,11 @@
          "name" : "Skyrim.esm"
       },
       {
-         "index" : 85,
+         "index" : 67,
          "name" : "HallgarthAdditionalHair.esp"
       },
       {
-         "index" : 134,
+         "index" : 126,
          "name" : "TheEyesOfBeauty.esp"
       }
    ],
@@ -750,7 +750,7 @@
    },
    "tintInfo" : [
       {
-         "color" : 4284236594,
+         "color" : 4286737755,
          "index" : 0,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
       },
@@ -805,77 +805,77 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 11,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_01.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 12,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_02.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 13,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_03.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 14,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_04.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 15,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_05.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 16,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_06.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 17,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_07.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 18,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_08.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 19,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_09.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 20,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_10.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 21,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_01.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 22,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_02.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 23,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_03.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 24,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_04.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 25,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadImperialWarPaint_05.dds"
       },
@@ -885,17 +885,17 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 27,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 28,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
       },
       {
-         "color" : 0,
+         "color" : 16777215,
          "index" : 29,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
       }
@@ -903,6 +903,227 @@
    "transforms" : [
       {
          "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV BOLTDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT QUIVER"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV ShieldBackDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT ShieldBack"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT WeaponSword"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordLeftDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT WeaponSwordLeft"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "NPC Head [Head]",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Head MagicNode [Hmag]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV BOLTDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "QUIVER"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV ShieldBackDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "ShieldBack"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSword"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordLeftDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordLeft"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV BOLTDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT QUIVER"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV ShieldBackDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT ShieldBack"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT WeaponSword"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordLeftDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "HDT WeaponSwordLeft"
+      },
+      {
+         "firstPerson" : true,
          "keys" : [
             {
                "name" : "NodeDestination",
@@ -925,7 +1146,7 @@
                "name" : "NodeDestination",
                "values" : [
                   {
-                     "data" : "NPC Head [Head]",
+                     "data" : "MOV BOLTDefault",
                      "index" : -1,
                      "key" : 40,
                      "type" : 2
@@ -933,7 +1154,58 @@
                ]
             }
          ],
-         "node" : "NPC Head MagicNode [Hmag]"
+         "node" : "QUIVER"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV ShieldBackDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "ShieldBack"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSword"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordLeftDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordLeft"
       }
    ],
    "version" : {
