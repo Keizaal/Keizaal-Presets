@@ -1,6 +1,6 @@
 {
    "actor" : {
-      "hairColor" : 1841177,
+      "hairColor" : 1183762,
       "headTexture" : "Skyrim.esm|051646",
       "weight" : 25
    },
@@ -12,7 +12,7 @@
                "value" : 1
             }
          ],
-         "name" : "RMWMixedAll"
+         "name" : "RMWCloak"
       },
       {
          "keys" : [
@@ -21,7 +21,7 @@
                "value" : 1
             }
          ],
-         "name" : "RMWCloak"
+         "name" : "RMWMixedAll"
       },
       {
          "keys" : [
@@ -40,15 +40,6 @@
             }
          ],
          "name" : "RMWBoardAll"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_2hmeqp"
       },
       {
          "keys" : [
@@ -81,6 +72,24 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE",
+               "value" : 1
+            }
+         ],
+         "name" : "RMWDualwieldAll"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
                "value" : 0
             }
          ],
@@ -94,15 +103,6 @@
             }
          ],
          "name" : "XPMSEAABase_magcastmt"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 1
-            }
-         ],
-         "name" : "RMWDualwieldAll"
       },
       {
          "keys" : [
@@ -135,15 +135,6 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_dageqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
                "value" : 1
             }
          ],
@@ -156,16 +147,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASaveCRC_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAABase_dageqp"
+         "name" : "XPMSEAASaveCRC_dageqp"
       },
       {
          "keys" : [
@@ -184,6 +166,24 @@
             }
          ],
          "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
       },
       {
          "keys" : [
@@ -216,10 +216,10 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASaveCRC_magcastmt"
+         "name" : "XPMSEAABase_magcon"
       },
       {
          "keys" : [
@@ -234,19 +234,10 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 0
             }
          ],
-         "name" : "XPMSEAABase_magcon"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_magcon"
+         "name" : "XPMSEAASaveCRC_magcastmt"
       },
       {
          "keys" : [
@@ -256,6 +247,15 @@
             }
          ],
          "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
       },
       {
          "keys" : [
@@ -279,6 +279,15 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
                "value" : 5
             }
          ],
@@ -297,15 +306,6 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASave_boweqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
                "value" : 1
             }
          ],
@@ -319,6 +319,24 @@
             }
          ],
          "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
       },
       {
          "keys" : [
@@ -345,16 +363,7 @@
                "value" : 1
             }
          ],
-         "name" : "XPMSEAARange_bowidle"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_bowatk"
+         "name" : "XPMSEAARange_boweqp"
       },
       {
          "keys" : [
@@ -364,15 +373,6 @@
             }
          ],
          "name" : "XPMSEAASave_1hmeqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 1
-            }
-         ],
-         "name" : "XPMSEAARange_boweqp"
       },
       {
          "keys" : [
@@ -396,19 +396,19 @@
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 0
+               "value" : 1
             }
          ],
-         "name" : "XPMSEAASaveCRC_1hmeqp"
+         "name" : "XPMSEAARange_magmt"
       },
       {
          "keys" : [
             {
                "key" : "XPMSE.esp",
-               "value" : 1
+               "value" : 0
             }
          ],
-         "name" : "XPMSEAARange_magmt"
+         "name" : "XPMSEAASaveCRC_1hmeqp"
       },
       {
          "keys" : [
@@ -435,7 +435,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_bowidle"
+         "name" : "XPMSEAASave_dageqp"
       },
       {
          "keys" : [
@@ -453,16 +453,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_dageqp"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_bowatk"
+         "name" : "XPMSEAASave_bowidle"
       },
       {
          "keys" : [
@@ -480,7 +471,25 @@
                "value" : 0
             }
          ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
          "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
       },
       {
          "keys" : [
@@ -507,7 +516,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_2hweqp"
+         "name" : "XPMSEAASave_2hmeqp"
       },
       {
          "keys" : [
@@ -525,7 +534,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASave_2hmeqp"
+         "name" : "XPMSEAASaveCRC_2hmeqp"
       },
       {
          "keys" : [
@@ -543,7 +552,7 @@
                "value" : 0
             }
          ],
-         "name" : "XPMSEAASaveCRC_2hmeqp"
+         "name" : "XPMSEAASaveCRC_2hweqp"
       },
       {
          "keys" : [
@@ -553,15 +562,6 @@
             }
          ],
          "name" : "XPMSEAASave_magatk"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE.esp",
-               "value" : 0
-            }
-         ],
-         "name" : "XPMSEAASaveCRC_2hweqp"
       },
       {
          "keys" : [
@@ -675,38 +675,38 @@
          "type" : 2
       },
       {
-         "formId" : 1124092169,
-         "formIdentifier" : "HallgarthAdditionalHair.esp|004909",
+         "formId" : 331956,
+         "formIdentifier" : "Skyrim.esm|0510B4",
          "type" : 3
       },
       {
-         "formId" : 331956,
-         "formIdentifier" : "Skyrim.esm|0510B4",
-         "type" : 5
-      },
-      {
-         "formId" : 2113975753,
+         "formId" : 671135177,
          "formIdentifier" : "TheEyesOfBeauty.esp|00B5C9",
-         "type" : 6
+         "type" : 4
       },
       {
          "formId" : 331903,
          "formIdentifier" : "Skyrim.esm|05107F",
-         "type" : 7
+         "type" : 5
+      },
+      {
+         "formId" : 174073717,
+         "formIdentifier" : "BSAssets.esm|602775",
+         "type" : 6
       }
    ],
-   "modNames" : [ "HallgarthAdditionalHair.esp", "Skyrim.esm", "TheEyesOfBeauty.esp" ],
+   "modNames" : [ "BSAssets.esm", "Skyrim.esm", "TheEyesOfBeauty.esp" ],
    "mods" : [
       {
          "index" : 0,
          "name" : "Skyrim.esm"
       },
       {
-         "index" : 67,
-         "name" : "HallgarthAdditionalHair.esp"
+         "index" : 10,
+         "name" : "BSAssets.esm"
       },
       {
-         "index" : 126,
+         "index" : 40,
          "name" : "TheEyesOfBeauty.esp"
       }
    ],
@@ -750,7 +750,7 @@
    },
    "tintInfo" : [
       {
-         "color" : 4286737755,
+         "color" : 4284236594,
          "index" : 0,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
       },
