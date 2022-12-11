@@ -1,56 +1,9 @@
 {
    "actor" : {
-      "hairColor" : 921105,
-      "headTexture" : "Skyrim.esm|0D0720",
-      "weight" : 55
+      "hairColor" : 3090724,
+      "headTexture" : "Skyrim.esm|05164A",
+      "weight" : 50
    },
-   "bodyMorphs" : [
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 1
-            }
-         ],
-         "name" : "RMWDualwield"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 3
-            }
-         ],
-         "name" : "RMWBow"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 1
-            }
-         ],
-         "name" : "RMWBoard"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 2
-            }
-         ],
-         "name" : "RMWQuiver"
-      },
-      {
-         "keys" : [
-            {
-               "key" : "XPMSE",
-               "value" : 6
-            }
-         ],
-         "name" : "RMWSword"
-      }
-   ],
    "faceTextures" : [
       {
          "index" : 0,
@@ -66,7 +19,7 @@
       },
       {
          "index" : 3,
-         "texture" : "Actors\\Character\\Male\\MaleHeadDetail_Rough02.dds"
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
       },
       {
          "index" : 7,
@@ -77,145 +30,132 @@
       {
          "formId" : 333363,
          "formIdentifier" : "Skyrim.esm|051633",
-         "type" : 1
+         "type" : 0
       },
       {
          "formId" : 333361,
          "formIdentifier" : "Skyrim.esm|051631",
+         "type" : 1
+      },
+      {
+         "formId" : 546143,
+         "formIdentifier" : "Skyrim.esm|08555F",
          "type" : 2
       },
       {
-         "formId" : 937386,
-         "formIdentifier" : "Skyrim.esm|0E4DAA",
+         "formId" : 332816,
+         "formIdentifier" : "Skyrim.esm|051410",
          "type" : 3
       },
       {
-         "formId" : 863906,
-         "formIdentifier" : "Skyrim.esm|0D2EA2",
-         "type" : 4
+         "formId" : 318810628,
+         "formIdentifier" : "debugModeRick.esp|00AA04",
+         "type" : 5
       },
       {
-         "formId" : 148057,
-         "formIdentifier" : "Skyrim.esm|024259",
-         "type" : 6
-      },
-      {
-         "formId" : 815370,
-         "formIdentifier" : "Skyrim.esm|0C710A",
+         "formId" : 148047,
+         "formIdentifier" : "Skyrim.esm|02424F",
          "type" : 7
       },
       {
-         "formId" : 1342180713,
-         "formIdentifier" : "KS_Hairdo's_Lite_NoNPCs.esp|000D69",
+         "formId" : 333064,
+         "formIdentifier" : "Skyrim.esm|051508",
          "type" : 8
       }
    ],
-   "modNames" : [ "KS_Hairdo's_Lite_NoNPCs.esp", "Skyrim.esm" ],
+   "modNames" : [ "Skyrim.esm", "debugModeRick.esp" ],
    "mods" : [
       {
          "index" : 0,
          "name" : "Skyrim.esm"
       },
       {
-         "index" : 80,
-         "name" : "KS_Hairdo's_Lite_NoNPCs.esp"
+         "index" : 19,
+         "name" : "debugModeRick.esp"
       }
    ],
    "morphs" : {
-      "custom" : [
-         {
-            "name" : "CME_Breton",
-            "value" : 0.2099999934434891
-         },
-         {
-            "name" : "CME_ElfEar",
-            "value" : 0.3599999845027924
-         },
-         {
-            "name" : "CME_DarkElf",
-            "value" : 0.009999999776482582
-         }
-      ],
+      "custom" : null,
       "default" : {
          "morphs" : [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0.5,
-            0,
-            0,
-            0,
-            0,
-            0,
+            -1,
+            -1,
+            0.2800000011920929,
+            -1,
+            1,
+            1,
+            -0.4199999868869781,
+            -0.6000000238418579,
+            0.2000000029802322,
             -1,
             0,
-            0,
-            0,
+            0.4000000059604645,
+            -0.699999988079071,
+            0.6000000238418579,
+            0.5,
+            1,
+            -1,
+            -0.2199999988079071,
             3.402823466385289e+38
          ],
-         "presets" : [ 2, 4294967295, 3, 2 ]
+         "presets" : [ 17, 4294967295, 13, 12 ]
       },
       "sculpt" : null,
       "sculptDivisor" : 10000
    },
    "tintInfo" : [
       {
-         "color" : 4286737755,
+         "color" : 4289169018,
          "index" : 0,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 1,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleUpperEyeSocket.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 2,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleLowerEyeSocket.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 3,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 4,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks2.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 5,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_FrownLines.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 6,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadNord_Lips.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 7,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Nose.dds"
       },
       {
-         "color" : 1799554049,
+         "color" : 16777215,
          "index" : 8,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_ForeHead.dds"
       },
       {
-         "color" : 2135951617,
+         "color" : 16777215,
          "index" : 9,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Chin.dds"
       },
       {
-         "color" : 2135951617,
+         "color" : 16777215,
          "index" : 10,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
       },
@@ -285,7 +225,7 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBretonWarPaint_02.dds"
       },
       {
-         "color" : 4278190080,
+         "color" : 16777215,
          "index" : 24,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBretonWarPaint_03.dds"
       },
@@ -325,7 +265,7 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBothiahTattoo_01.dds"
       },
       {
-         "color" : 3204448256,
+         "color" : 16777215,
          "index" : 32,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
       },
@@ -340,51 +280,15 @@
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
       },
       {
-         "color" : 1828716544,
+         "color" : 16777215,
          "index" : 35,
          "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
-      }
-   ],
-   "transforms" : [
-      {
-         "firstPerson" : false,
-         "keys" : [
-            {
-               "name" : "RMWHide",
-               "values" : [
-                  {
-                     "data" : 0.001000000047497451,
-                     "index" : 0,
-                     "key" : 30,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponDagger"
-      },
-      {
-         "firstPerson" : true,
-         "keys" : [
-            {
-               "name" : "RMWHide",
-               "values" : [
-                  {
-                     "data" : 0.001000000047497451,
-                     "index" : 0,
-                     "key" : 30,
-                     "type" : 4
-                  }
-               ]
-            }
-         ],
-         "node" : "WeaponDagger"
       }
    ],
    "version" : {
       "formatVersion" : 3,
       "runtimeVersion" : 17039392,
       "signature" : 1163086675,
-      "skseVersion" : 33554704
+      "skseVersion" : 33620048
    }
 }
